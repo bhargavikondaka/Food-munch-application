@@ -1,0 +1,245 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.fm-brand-logo {
+    height: 50px;
+    width: 50px;
+}
+
+.fm-background {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+}
+
+.fm-nav-items {
+    color: black;
+    font-weight: 200;
+    font-family: "Roboto";
+}
+
+.fm-banner-heading {
+    color: white;
+    font-size: 5vh;
+
+}
+
+.fm-banner-para {
+    color: white;
+    font-size: 3vh;
+    font-family: "Roboto";
+}
+
+.fm-button1 {
+    background-color: #d0b200;
+    color: white;
+    font-size: 2vh;
+    text-align: center;
+}
+
+.fm-button2 {
+    background-color: transparent;
+    color: #d0b200;
+    font-size: 2vh;
+    border-style: solid;
+    border-color: #d0b200;
+    text-align: center;
+}
+
+
+
+
+
+.wcu-bg-container {
+    background-color: #f9fbfe;
+    background-size: cover;
+
+}
+
+.heading-wcu {
+    color: #183b56;
+    font-size: 25px;
+    font-family: "Roboto";
+    font-weight: bold;
+
+}
+
+.wcu-head-desc {
+    color: gray;
+    font-size: 10px;
+    background-size: cover;
+
+}
+
+.wcu-card-section {
+    text-align: center;
+    font-family: "Roboto";
+    border-radius: 3vh;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+
+
+
+}
+
+.card-img-dimensions {
+    height: 100px;
+    width: 100px;
+}
+
+.food-heading-wcu {
+    color: black;
+    font-size: 19px;
+    font-family: "Roboto";
+    font-weight: 100;
+
+}
+
+.wcu-specification {
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 18px;
+}
+
+.menu-section {
+    background-color: white;
+}
+
+.menu-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 30px;
+
+}
+
+.menu-sec-img-dimensions {
+    border-radius: 16px;
+    width: 100%;
+}
+
+.food-card {
+    border-radius: 16px;
+
+}
+
+.food-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 16px;
+
+}
+
+.menu-sec-card-view-link {
+    color: #d0b200;
+    font-family: "Roboto";
+    margin-top: 0px;
+}
+
+.healthy-bg {
+    background-color: #f9fbfe;
+    background-size: cover;
+
+}
+
+.healthy-sec-image-food {
+    width: 100%;
+
+
+}
+
+.healthy-sec-food-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 40px;
+    font-weight: bold;
+
+}
+
+.healthy-sec-food-description {
+    color: #5a7184;
+    font-size: 16px;
+    font-family: "Roboto";
+}
+
+.payment-background {
+    background-color: white;
+    background-size: cover;
+}
+
+.payment-off-img {
+    width: 90%;
+}
+
+.payment-offer-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 40px;
+    font-weight: bold;
+
+}
+
+.payment-offer-description {
+    color: #5a7184;
+    font-size: 16px;
+    font-family: "Roboto";
+}
+
+.payment-cards {
+    height: 70px;
+    width: 70px;
+}
+
+.gift-section {
+    background-size: cover;
+    background-image: radial-gradient(#fff8db, #fae38c);
+    border-radius: 12px;
+}
+
+.gift-card-heading {
+    color: #183b56;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.gift-card-description {
+    color: #5a7184;
+    font-size: 16px;
+    font-family: "Roboto";
+}
+
+.gift-card-image {
+    width: 80%;
+}
+
+.gift-vocher {
+    width: 90%;
+    margin: 10px;
+}
+
+.follow-us-section {
+    background-color: white;
+
+    background-size: cover;
+}
+
+.follow-heading-us-section-heading {
+    color: #183b56;
+    font-size: 30px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.follow-us-logo {
+
+    background-color: #faf7e8;
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+    padding: 35px;
+    margin: 16px;
+}
